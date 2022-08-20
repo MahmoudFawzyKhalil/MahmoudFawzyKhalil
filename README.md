@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Fawzy</h1>
 <h3 align="center">A Java software engineer from Cairo, Egypt 🏝</h3>
 
-- 🔭 I’m currently working on [Creating an ecommerce RESTful and SOAP webservice using JAX-RS and JAX-WS](https://github.com/MahmoudFawzyKhalil/rest-soap-ecommerce-web-service)
-
-- 🌱 I’m currently learning **creating RESTful APIs and Microservices with Spring 🍃**
-
 - 💬 Ask me about **Java, Jakarta EE, Spring**
 
 - 📫 How to reach me **mahmoudfawzykhalil98@gmail.com**
