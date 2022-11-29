@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Fawzy</h1>
-<h3 align="center">A Java software engineer from Cairo, Egypt 🏝</h3>
+<h3 align="center">A Software Engineer from Cairo, Egypt 🏝</h3>
 
 - 💬 Ask me about **Java, Spring Boot, Testing**
 
