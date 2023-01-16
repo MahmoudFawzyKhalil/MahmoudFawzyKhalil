@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mahmoud
-## A Software Engineer from Cairo, Egypt 🏝
+I'm a Software Engineer from Cairo, Egypt 🏝
 
 - 💬 Ask me about **Java, Spring Boot, Testing**
 
